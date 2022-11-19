@@ -1,0 +1,19 @@
+{
+  "name": "average-of-array",
+  "version": "1.0.2",
+  "description": "Gets you the average of Array within given indices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purvjeja/array-sum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/purvjeja/array-sum/issues"
+  },
+  "homepage": "https://github.com/purvjeja/array-sum#readme"
+}
